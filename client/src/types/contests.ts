@@ -7,8 +7,8 @@ export interface Question {
   options: string[]
 }
 
-export interface PagedResult {
-  items: Question[]
+export interface PagedResult<T = Question> {
+  items: T[]
   totalCount: number
   page: number
   pageSize: number
