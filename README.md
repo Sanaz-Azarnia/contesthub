@@ -55,6 +55,13 @@ This project follows modern DevOps practices with fully automated, production-re
 
 ---
 
+## 📬 Contact
+Feel free to reach out for collaborations, inquiries, or opportunities:
+- **Email:** [sanazazarnia99@gmail.com]
+- **Website:** [https://sanazazarnia.com]
+
+---
+
  ## ⚖️ License
 
 **Source-Available — All Rights Reserved**
